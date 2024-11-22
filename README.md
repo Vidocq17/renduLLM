@@ -16,9 +16,18 @@ Setup :
 Utilisation :
 
 - python3 drive.py
+    Accès au google drive en accès public.
+    Téléchargement du fichier défini dans le bulb du drive.py vers le fichier local_exemple.pdf.
 - python3 localrag.py
+    Discussion avec Ollama sur le pdf téléchargé.
 
 Configuration de la créativité d'Ollama :
 
 - ollama run llama3
 - /set parameter temperature <valeur>
+
+Fin d'utilisation : 
+
+- quit
+
+Enjoy !
