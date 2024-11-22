@@ -15,8 +15,8 @@ Setup :
 
 Utilisation :
 
-- python upload.py
-- python localrag.py
+- python3 drive.py
+- python3 localrag.py
 
 Configuration de la créativité d'Ollama :
 
