@@ -14,6 +14,6 @@ def download_blob(bucket_name, source_blob_name, destination_file_name):
 if __name__ == '__main__':
 
     bucket_name = "bucket-ollama"
-    source_blob_name = "file-ollama/exemple2.pdf"
+    source_blob_name = "file-ollama/exemple1.pdf"
     destination_file_name = "downloadData/exemple_local.pdf"
     download_blob(bucket_name, source_blob_name, destination_file_name)
